@@ -3,7 +3,7 @@ export const projects = [
     title: "Yelpcamp",
     subtitle: "MEN Stack",
     description:
-      "YelpCamp is a web application designed for campers and outdoor enthusiasts. It allows users to view and review campgrounds, create new campgrounds, and share their experiences. The app is built using the MEN (MongoDB, Express, Node.js) stack, with features like user authentication, campground listings, and dynamic rendering of content using EJS templates.",
+      "A comprehensive camping experience app that helps outdoor enthusiasts discover and review campgrounds, share their camping adventures, and connect with like-minded nature lovers.",
     image:
       "https://res.cloudinary.com/dhw65qkcs/image/upload/v1709185923/Yelpcamp/gweznshj7vuudzaqxelu.png",
     link: "https://yelpcamp-4.onrender.com/",
@@ -13,7 +13,7 @@ export const projects = [
     title: "Go Food app",
     subtitle: "MERN stack",
     description:
-      "YelpCamp is a web application designed for campers and outdoor enthusiasts. It allows users to view and review campgrounds, create new campgrounds, and share their experiences. The app is built using the MEN (MongoDB, Express, Node.js) stack, with features like user authentication, campground listings, and dynamic rendering of content using EJS templates.",
+      "An innovative food delivery app that brings your favorite cuisines right to your doorstep. Explore a variety of restaurants, order with ease, and enjoy delicious meals in the comfort of your home.",
     image:
       "https://res.cloudinary.com/dhw65qkcs/image/upload/v1709714777/Yelpcamp/i5s73kt88cnbdx2ccr2v.png",
     link: "https://go-food-mern-three.vercel.app",
@@ -23,7 +23,7 @@ export const projects = [
     title: "Tenzies",
     subtitle: "React and Javascript",
     description:
-      "YelpCamp is a web application designed for campers and outdoor enthusiasts. It allows users to view and review campgrounds, create new campgrounds, and share their experiences. The app is built using the MEN (MongoDB, Express, Node.js) stack, with features like user authentication, campground listings, and dynamic rendering of content using EJS templates.",
+      " A productivity app designed to streamline your to-do lists and tasks. Tenzies helps you organize your day, set priorities, and achieve your goals efficiently, making productivity a breeze.",
     image:
       "https://res.cloudinary.com/dhw65qkcs/image/upload/v1709270286/Yelpcamp/pnabcotfdsmux1numc2x.png",
     link: "https://candid-daffodil-bc8876.netlify.app",
@@ -33,7 +33,7 @@ export const projects = [
     title: "Quiziccal",
     subtitle: "React and Javascript",
     description:
-      "YelpCamp is a web application designed for campers and outdoor enthusiasts. It allows users to view and review campgrounds, create new campgrounds, and share their experiences. The app is built using the MEN (MongoDB, Express, Node.js) stack, with features like user authentication, campground listings, and dynamic rendering of content using EJS templates.",
+      "Engage your mind with Quizzical, a fun and educational quiz app. Test your knowledge on a wide range of topics, challenge your friends, and learn new facts in an interactive and entertaining way.",
     image:
       "https://res.cloudinary.com/dhw65qkcs/image/upload/v1709270624/Yelpcamp/okldla3zqcb9iclh8aci.png",
     link: "https://genuine-selkie-f7fe11.netlify.app/quiz",

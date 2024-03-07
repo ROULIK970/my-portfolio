@@ -12,9 +12,15 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Explore the great outdoors with Yelpcamp, a camping app that
+            connects outdoor enthusiasts to stunning campgrounds. Satisfy your
+            taste buds with GoFood, a convenient food delivery app offering a
+            diverse range of cuisines. Boost your productivity with Tenzies, a
+            streamlined task management app designed to keep you organized.
+            Challenge your knowledge and have fun with Quizzical, an interactive
+            quiz app covering a wide array of topics. Whether you seek
+            adventure, delicious meals, productivity, or mental stimulation,
+            these apps have you covered.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
@@ -43,10 +49,7 @@ export default function Projects() {
                 </div>
               </a>
               <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
-                Github link:{" "}
-                <a href={project.github}>
-                  {project.github}
-                </a>
+                Github link: <a href={project.github}>{project.github}</a>
               </h2>
             </div>
           ))}
